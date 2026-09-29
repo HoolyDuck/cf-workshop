@@ -1,0 +1,1 @@
+{"root":["./worker-configuration.d.ts","./worker/index.ts","./worker/cache/results.ts","./worker/constants/options.ts","./worker/db/votes.ts","./worker/routes/results.ts","./worker/routes/votes.ts","./worker/utils/response.ts"],"version":"5.9.3"}
